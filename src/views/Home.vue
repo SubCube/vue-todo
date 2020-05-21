@@ -25,7 +25,7 @@ export default {
     return{
       state: {
         todos: [
-          {id:1, name: 'Погладить', marked: false, done:false},
+          {id:1, name: 'Погладить', marked: false, done:true},
           {id:2, name: 'Постирать', marked: true, done:false},
           {id:3, name: 'Кино', marked: false, done:false},
           {id:4, name: 'Звонок', marked: true, done:false},
